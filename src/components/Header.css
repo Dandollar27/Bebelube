@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+  }
+  
+  .header-left{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+  }
+  
+  .nav-links{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+  }
+  
+  .header-right{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+  
+  .secondary-links{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+  }
