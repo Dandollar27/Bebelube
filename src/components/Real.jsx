@@ -3,7 +3,7 @@ import './Real.css'
 import { bodyData } from './Domidata'
 import { secBodyData } from './Domidata'
 import { thirdBodyData } from './Domidata'
-
+import Moon from './Moon'
 
 
 const Real = () => {
