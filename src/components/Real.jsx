@@ -11,7 +11,7 @@ const Real = () => {
     <>
     <div>
        {bodyData.map((item) => (
-        <Moon key={item.id} item={item} />
+        <Moon key={item.id} item={item}/>
         
         
       ))}

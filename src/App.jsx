@@ -4,7 +4,13 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Another from "./components/Another"
 import Real from "./components/Real"
-// import image from './image'
+import Section from "./components/Section"
+import Realdum from "./components/Realdum"
+import Card from "./components/Card"
+import Footer from "./components/Footer"
+import Contact from "./components/Contact"
+
+
 
 function App() {
 
@@ -14,6 +20,11 @@ function App() {
     <Hero/>
     <Another/>
     <Real/>
+    <Section/>
+    <Realdum/>
+    <Card/>
+    < Footer/>
+    <Contact/>
     </div>
   )
 }
